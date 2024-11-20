@@ -1,0 +1,21 @@
+.social-icon{
+    display: flex;
+    justify-content:center;
+    align-items: center; 
+
+}
+.s-icon1{
+   font-size: 35px;
+   color: blue;
+   margin: 8px;
+}
+.s-icon2{
+    font-size: 35px;
+    color:rgba(9, 9, 179, 0.9);
+    margin: 8px;
+}
+.s-icon3{
+    font-size: 35px;
+    color:plum;
+    margin: 8px;
+}
